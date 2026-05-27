@@ -287,7 +287,7 @@ When using ADP output, always present the returned data as-is. Do not modify, ad
 - **ADP Product Manual:** [Public Cloud Manual](https://laiye-tech.feishu.cn/wiki/OfexwgVUQiOpEek4kO7c7NEJnAe)
 - **Issue Tracker:** [GitHub Issues](https://github.com/laiye-ai/adp-cli/issues)
 - **Email:** global_product@laiye.com
-- **Website:** [Laiye ADP](https://laiye.com/en/product/adp-platform)s
+- **Website:** [Laiye ADP](https://laiye.com/en/product/adp-platform)
 
 ---
 

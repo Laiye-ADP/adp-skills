@@ -1,5 +1,5 @@
 ---
-name: invoice-recognition-and-extraction
+name: global-invoice-recognition-and-extraction
 description: Multi-language, multi-currency global invoice recognition and extraction — accurately extracts invoice number, date, supplier, buyer, currency, tax amount, total amount, and line items, outputting structured JSON. Zero-configuration, out-of-the-box, suitable for accounts payable automation, expense reimbursement, and cross-border trade document processing.
 ---
 
