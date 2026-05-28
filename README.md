@@ -66,21 +66,26 @@ This repository aggregates all document processing capabilities of ADP. All skil
 
 ## 📋 ADP Skills 速览表
 
+### Limited Free Skills
+| Skill Name | Skill Description | Link |
+| ---- | ---- | ---- |
+| Global Invoice Free Edition | Limited-time offer: For **global cross-border finance, automation, and system integration scenarios**, provides high-precision, full-format, multi-language intelligent extraction for invoices, bills, and receipts. Fully compatible with structured standard documents, unstructured overseas purchase invoices, and consumer receipts. Whether it’s electronic PDFs, scanned copies, or image files, it can **output standardized JSON structured data with one click**, significantly reducing financial labor costs and seamlessly connecting end-to-end processes for business automation, smart reconciliation, and data entry. | [ADP Global Invoice Extraction Free Skill](adp-global-invoice-extraction-free/SKILL.md) |
+
 ### General SKills
-| Classification | Skill name | Skill description | Link |
-| ---- | ---- | ---- | ---- |
-| General | Agentic Document Parsing & Extraction | Enables AI-powered parsing and key information extraction from high-frequency documents including invoices, orders, receipts, long texts, and common Chinese identity & credential documents. Supports reusable custom templates for non-standard business files. Features batch concurrent processing and human-in-the-loop review with customizable audit rules to automate document workflows for finance, administration, HR data entry and other departments. | [Agentic Document Parsing & Extraction](agentic-doc-parse-and-extract/SKILL.md) |
+| Skill name | Skill description | Link |
+| ---- | ---- | ---- |
+| Agentic Document Parsing & Extraction | Enables AI-powered parsing and key information extraction from high-frequency documents including invoices, orders, receipts, long texts, and common Chinese identity & credential documents. Supports reusable custom templates for non-standard business files. Features batch concurrent processing and human-in-the-loop review with customizable audit rules to automate document workflows for finance, administration, HR data entry and other departments. | [Agentic Document Parsing & Extraction](agentic-doc-parse-and-extract/SKILL.md) |
 
 ### Specialized Function SKills
-| Classification | Skill name | Skill description | Link |
-| ---- | ---- | ---- | ---- |
-| Specialized Function | global-invoice-recognition-and-extraction | Multi-language, multi-currency global invoice recognition and extraction — accurately extracts invoice number, date, supplier, buyer, currency, tax amount, total amount, and line items, outputting structured JSON. Zero-configuration, out-of-the-box, suitable for accounts payable automation, expense reimbursement, and cross-border trade document processing. | [global-invoice-recognition-and-extraction](global-invoice-recognition-and-extraction\SKILL.md) |
-| Specialized Function | Universal Document Parsing | Supports parsing of more than ten file formats including PDFs, images, scanned documents and Office files. It can output standard structured JSON or well-formatted Markdown as needed: key fields are extracted into JSON data, while original layouts such as headings, tables, lists and paragraphs are fully preserved when converted to Markdown. Zero configuration required and ready for immediate use. It caters to various business scenarios including document storage and retrieval, automated data pipelines, cross-system integration, content migration, document organization and LLM context preparation. | [JSON Output](pdf-to-structured-json\SKILL.md) 、[Markdown Output](pdf-to-structured-markdown\SKILL.md)|
+| Skill name | Skill description | Link |
+| ---- | ---- | ---- |
+| global-invoice-recognition-and-extraction | Multi-language, multi-currency global invoice recognition and extraction — accurately extracts invoice number, date, supplier, buyer, currency, tax amount, total amount, and line items, outputting structured JSON. Zero-configuration, out-of-the-box, suitable for accounts payable automation, expense reimbursement, and cross-border trade document processing. | [global-invoice-recognition-and-extraction](global-invoice-recognition-and-extraction\SKILL.md) |
+| Universal Document Parsing | Supports parsing of more than ten file formats including PDFs, images, scanned documents and Office files. It can output standard structured JSON or well-formatted Markdown as needed: key fields are extracted into JSON data, while original layouts such as headings, tables, lists and paragraphs are fully preserved when converted to Markdown. Zero configuration required and ready for immediate use. It caters to various business scenarios including document storage and retrieval, automated data pipelines, cross-system integration, content migration, document organization and LLM context preparation. | [JSON Output](pdf-to-structured-json\SKILL.md) 、[Markdown Output](pdf-to-structured-markdown\SKILL.md)|
 
 ### Scenario-based SKills
-| Classification | Skill name | Skill description | Link |
-| ---- | ---- | ---- | ---- |
-| Scenario-based | invoice-extractor-from-mail | Designed for AP finance teams in cross-border trade enterprises. Automatically fetches invoice attachments from email (IMAP/OAuth) or local files, batch-extracts key fields (invoice number, amount, currency, etc.) via ADP, and exports results to Excel or business systems — no manual data entry required. | [invoice-extractor-from-mail](invoice-extractor-from-mail\SKILL.md) |
+| Skill name | Skill description | Link |
+| ---- | ---- | ---- |
+| invoice-extractor-from-mail | Designed for AP finance teams in cross-border trade enterprises. Automatically fetches invoice attachments from email (IMAP/OAuth) or local files, batch-extracts key fields (invoice number, amount, currency, etc.) via ADP, and exports results to Excel or business systems — no manual data entry required. | [invoice-extractor-from-mail](invoice-extractor-from-mail\SKILL.md) |
 
 # ADP Skills General Operation Steps
 
