@@ -193,13 +193,13 @@ When the limit is exceeded, the API returns HTTP `429` with registration guidanc
 This API uses the fixed `invoice-fast` (high-speed) model with preset field configurations, designed exclusively for a quick experience.
 
 **Upgrade to the full ADP account to unlock these premium capabilities:**
-- Invoice file size exceeds 2MB
-- Higher API call frequency & **unlimited request quotas**
-- **Custom extraction fields** (add or remove fields as needed)
+- Process invoice files larger than 2MB
+- Higher API call frequency & unlimited request quotas
+- Customizable extraction fields (add or remove fields on demand)
 - Asynchronous batch processing
 - Human-in-the-loop (HITL) review workflow
 - Webhook callback support
-- Support for **more document types** (purchase orders, ID cards, domestic invoices, etc.)
+- Support for more document types (purchase orders, ID cards, domestic invoices, etc.)
 - MCP tool integration for AI clients (Claude Desktop, Cursor, etc.)
 
 | Version | URL |

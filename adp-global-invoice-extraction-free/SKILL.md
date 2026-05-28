@@ -11,7 +11,7 @@ Powered by the Laiye ADP Team (Agentic Document Processing), this skill enables 
 ## 📄 Quick Start Guide
 
 ### Step 1: Select Base URL
-No account registration or API Key required. Send requests directly to the endpoints below:
+We offer dedicated public cloud access endpoints for domestic and international users, with separate regional configurations. Connecting to the nearest node ensures fast and stable network calls. No account registration or API Key is required — you may send requests directly to the endpoints listed below.  
 
 | Environment | API Endpoint |
 |------|---------|
@@ -178,7 +178,7 @@ When the limit is exceeded, the API returns HTTP `429` with registration guidanc
 This API uses the fixed `invoice-fast` (high-speed) model with preset field configurations, designed exclusively for a quick experience.
 
 **Upgrade to the full ADP account to unlock these premium capabilities:**
-
+- Invoice file size exceeds 2MB
 - Higher API call frequency & **unlimited request quotas**
 - **Custom extraction fields** (add or remove fields as needed)
 - Asynchronous batch processing

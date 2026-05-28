@@ -1,3 +1,7 @@
+> 📢 News  
+Laiye ADP Global Invoice Extraction · Free for Limited Time，Spots are limited, available on a first-come, first-served basis. [Learn more about: ADP Global Invoice Extraction Free Skill](adp-global-invoice-extraction-free\SKILL.md)
+---
+
 ## 🚀 About Laiye ADP
 
 ADP is Laiye's **intelligent agent document processing product (Agentic Document Processing, referred to as ADP)** , based on the general understanding ability of large models, without relying on rules and annotations, with the general understanding ability of multi-language, MultiModal Machine Learning, and multi-scene; autonomous planning and execution of intelligent agents, able to understand task goals, autonomous planning steps, invoke tools, and complete complex tasks; end-to-end business automation, from document input to business decision-making to human-machine collaboration, forming a complete closed loop.
