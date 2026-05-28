@@ -11,7 +11,7 @@ agentic_doc_parse_and_extract is the official command-line tool released by Laiy
 
 ---
 > 📢 News  
-Laiye ADP Global Invoice Extraction · Free for Limited Time，Spots are limited, available on a first-come, first-served basis. [Learn more about: ADP Global Invoice Extraction Free Skill](adp-global-invoice-extraction-free\SKILL.md)
+Laiye ADP Global Invoice Extraction · Free for Limited Time，Spots are limited, available on a first-come, first-served basis. [Learn more about: ADP Global Invoice Extraction Free Skill](adp-global-invoice-extraction-free/SKILL.md)
 ---
 
 ## 🚀 About Laiye ADP

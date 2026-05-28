@@ -10,7 +10,8 @@ ADP 是来也科技自研的**智能体文档处理产品 (Agentic Document Proc
 
 ---
 > 📢 公告  
-来也 ADP 全球发票提取功能限时免费，名额有限，先到先得：[ADP 全球发票提取免费技能](adp-global-invoice-extraction-free\SKILL.md)
+来也 ADP 全球发票提取功能限时免费，名额有限，先到先得：[ADP 全球发票提取免费技能](adp-global-invoice-extraction-free/SKILL.md)
+
 ---
 ## ✨ 产品核心优势
 相较于传统文档处理方案，ADP 依托智能体技术与多模态模型，无需标注、无需训练即可达到更高的准确率，以及更加广阔文档适应性

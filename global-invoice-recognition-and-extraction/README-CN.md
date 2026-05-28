@@ -1,5 +1,5 @@
 > 📢 公告  
-来也 ADP 全球发票提取功能限时免费，名额有限，先到先得：[ADP 全球发票提取免费技能](adp-global-invoice-extraction-free\SKILL.md)
+来也 ADP 全球发票提取功能限时免费，名额有限，先到先得：[ADP 全球发票提取免费技能](adp-global-invoice-extraction-free/SKILL.md)
 ---
 
 ## 🚀 关于来也ADP

@@ -11,7 +11,7 @@ ADP is an Agentic Document Processing (ADP) product independently developed by L
 ---
 
 > 📢 News  
-Laiye ADP Global Invoice Extraction · Free for Limited Time，Spots are limited, available on a first-come, first-served basis. [Learn more about: ADP Global Invoice Extraction Free Skill](adp-global-invoice-extraction-free\SKILL.md)
+Laiye ADP Global Invoice Extraction · Free for Limited Time，Spots are limited, available on a first-come, first-served basis. [Learn more about: ADP Global Invoice Extraction Free Skill](adp-global-invoice-extraction-free/SKILL.md)
 
 ---
 ## ✨ Core Advantages
