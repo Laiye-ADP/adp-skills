@@ -1,32 +1,33 @@
 
 <div align="center">
 
-# 🚀 Laiye ADP Global Document Parsing · Free for Limited Time
+# 🚀 Laiye ADP Global Invoice Extraction · Free for Limited Time
 
 Developed by the Laiye ADP (Agentic Document Processing) team, this solution delivers high-precision, full-format and multi-language intelligent extraction for invoices, bills and receipts, tailored for **global cross-border finance, automation and system integration scenarios**. Compatible with standard structured documents and unstructured overseas purchase invoices & receipts, it supports electronic PDFs, scanned files and images. All files can generate **standardized structured JSON data** with one click, effectively cutting financial labor costs and enabling full-process capabilities including business automation, intelligent reconciliation and data entry.
 
 </div>
 
 ## ⭐ Why choose ADP?
-✅ Global Invoice Solution | Easy Access & Accurate Multi-language Recognition  
-🌐 100+ Languages Supported: Works with invoices and receipts in English, Japanese, Korean, German, French, Thai and more mainstream languages.  
-📄 Full Format Adaptation: Compatible with standard VAT invoices, Southeast Asian tax documents, unstructured receipts and mixed-layout vouchers.  
-🎯 99%+ Extraction Accuracy: Precisely capture key fields to cut costs of manual verification, translation and data entry.  
-⚡ High-speed Batch Processing: Parse hundreds of documents within minutes to boost work efficiency.  
-🤖 AI Continuous Optimization: The model keeps fine-tuning with your business data for increasingly accurate and customized results.
+✅ Global Invoice Solution  
+🌐 Supports 100+ languages for invoices & receipts  
+📄 Adapts to various invoice, receipt and voucher formats  
+🎯 99%+ data extraction accuracy  
+⚡ Fast batch processing for high efficiency  
+🤖 AI continuously optimized with your business data  
+
 > Laiye ADP APIs are **100% free** for a limited time. Limited quota available, first come, first served!
 
 ## 📌 Target Scenarios
 | User Group | Usage Scenario |
 | ---- | ---- |
-| Finance Teams | Process multi-language invoices, VAT documents and overseas receipts to reduce manual work and improve efficiency. |
-| Agent Users | Install the skill to ADP Agent with one click for automated document recognition. |
-| Developers | Call APIs to integrate recognition capabilities into business and financial platforms. |
+| Finance Teams | Extract key data from multi-language invoices & overseas receipts for financial reimbursement and supplier settlement. |
+| Agent Users | Install ADP Skill with one click on OpenAI GPTs, Anthropic Claude, Google Gemini Agent Builder, Microsoft Copilot Studio and Hermes for automated document parsing. |
+| Developers | Call our APIs with 98%+ extraction accuracy. Migrate to our service in just 5 minutes and get started for free. |
 
 ## 📄 Quick Start Guide
 
 ### Step 1: Select Base URL
-No account registration or API Key required. Send requests directly to the endpoints below:
+We offer dedicated public cloud access endpoints for domestic and international users, with separate regional configurations. Connecting to the nearest node ensures fast and stable network calls. No account registration or API Key is required — you may send requests directly to the endpoints listed below.  
 
 | Environment | API Endpoint |
 |------|---------|
@@ -159,17 +160,7 @@ print(response.json())
 | URL Accessibility | Publicly accessible HTTP/HTTPS URL. Private network or internal IP addresses are not supported |
 | Per IP per minute | 5 requests (within any consecutive 60 seconds) |
 | Per IP per day | 30 requests |
-| Global daily pool | 5,000 requests |
-
-
-## ⏱️ Call Rate Limits
-This API is for trial use with free quota restrictions:
-
-| Metric | Limit |
-|--------|-------|
-| Per IP per minute | 5 requests (within any consecutive 60 seconds) |
-| Per IP per day | 50 requests |
-| Global per day | 10,000 requests |
+| daily pool | 5,000 requests |
 
 When the limit is exceeded, the API returns HTTP `429` with registration guidance included in the response.  
 ```json
@@ -202,7 +193,7 @@ When the limit is exceeded, the API returns HTTP `429` with registration guidanc
 This API uses the fixed `invoice-fast` (high-speed) model with preset field configurations, designed exclusively for a quick experience.
 
 **Upgrade to the full ADP account to unlock these premium capabilities:**
-
+- Invoice file size exceeds 2MB
 - Higher API call frequency & **unlimited request quotas**
 - **Custom extraction fields** (add or remove fields as needed)
 - Asynchronous batch processing
@@ -213,8 +204,8 @@ This API uses the fixed `invoice-fast` (high-speed) model with preset field conf
 
 | Version | URL |
 |---------|-----|
-| **Global Edition** | [adp-global.laiye.com](https://adp-global.laiye.com/?utm_source=promotions) |
-| **China Edition** | [adp.laiye.com](https://adp.laiye.com/?utm_source=promotions) |
+| **Global** | [adp-global.laiye.com](https://adp-global.laiye.com/?utm_source=promotions) |
+| **China** | [adp.laiye.com](https://adp.laiye.com/?utm_source=promotions) |
 
 New users will receive **100 free credits** upon registration to experience all full-function features.
 
